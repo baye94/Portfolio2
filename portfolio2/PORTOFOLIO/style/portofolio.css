@@ -1,0 +1,219 @@
+hr{
+	background:white;
+}
+body{
+	
+}
+#portfolio{
+ overflow: hidden;	
+}
+
+#Partie1{
+	background: url("../images/ordi3.png");
+	height: 790px;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#navbarSupportedContent .nav-link{
+	color:white;
+	position: center;
+}
+#navbarSupportedContent  {
+  margin-left:  60px!important;
+  font-size: 25px;
+  margin-top: 20px!important;
+  font-weight: lighter;
+}
+#navbarSupportedContent ul li a{
+	margin-left:  100px;
+
+}
+#navbarSupportedContent ul li a:hover{
+	font-weight: bolder;
+}
+#Partie1 .navbar-brand{
+	color:white;
+	font-size: 30px;
+	margin-left: 150px;
+	margin-top: 20px;
+	
+}
+#Partie1 .container{
+	padding-top: 150px;
+}
+header .navbar-toggler{
+	background:white;
+}
+#carouselExampleSlidesOnly{
+	 margin-top: 150px;
+}
+#carouselExampleSlidesOnly .carousel-item{
+	font-size: 40px;
+}
+/* A Propos*/
+#propos{
+	height: 100%;
+	background:;
+	padding-top: 50px;
+	color: #282828;
+}
+#propos ul li a{
+	list-style: none;
+	text-decoration: underline;
+	color: black;
+}
+#propos ul li {
+	list-style: none;
+	text-decoration: none;
+}
+#propos img{
+	margin-top: 100px;
+	margin-left: 60px;
+	border-radius: 150%;
+}
+#propos p{
+	font-size: 22px;
+}
+
+
+/* Competence*/
+#competence{
+ height: 100%;
+ background: #282828;
+ color: white;
+ padding-top: 50px;
+ padding-bottom: 50px;
+
+}
+#competence p{
+	font-size: 22px;
+}
+#competence hr{
+ color: red;
+ font-size: 400px;
+ size: 40px;
+}
+
+ #competence .progress-container{
+ 	margin-top: 50px;
+ }
+
+#competence .progress-bar{
+	background:red;
+}
+      /* service*/
+#service .serviceelement{
+	
+	color: black;
+	font-weight: lighter;
+}
+/* experience*/
+#experience{
+	height: 100%;
+	background:url("../images/computer.png");
+	background-size: 100%;
+	background-position: bottom;
+	background-attachment: fixed;
+	color: white;
+
+}
+#experience h2{
+
+}
+#experience article p {
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 1.875rem;
+    color: #ccc;
+    text-align: justify;
+}
+#experience  p{
+	font-size: 22px;
+}
+#experience article {
+    position: relative;
+    margin-top: 4.375rem;
+    background-color: #282828;
+    padding: 1.25rem 2.1875rem 3.4375rem;
+}
+#experience article .date {
+    position: absolute;
+    height: 4.375rem;
+    background:#ffffff;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    top: -3.125rem;
+    left: -.175rem;
+    font-size: 1.5625rem;
+    font-weight: 700;
+    line-height: 4.375rem;
+    color: #282828;
+}
+#experience .row{
+	
+}
+
+#experience h4{
+	font-weight: lighter;
+	
+}
+/* reseau*/
+#reseaux{
+	height:200px;
+	color:#282828; 
+	
+}
+/* contact*/
+#contact{
+	height:100%;
+	background: url("../images/contact.png");
+	background-size: cover;
+	background-attachment: fixed;
+	color: white;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+#contact p{
+	font-size: 27px;
+
+}
+ #buttonContact{
+ 	height: 60px;
+ 	width: 200px;
+ 	background:transparent;
+ 	color: white;
+ 	font-weight: bolder;
+}
+ #buttonContact:hover{
+ 	background: white;
+ 	color: black;
+ }
+#formcontact input{
+ width: 10.5cm;
+ font-size: 20px;
+ border-radius: 10px;
+ margin: 10px;
+
+}
+#formcontact label{
+	font-weight: bolder;
+}
+#prenom{
+	margin-left:  20px !important ;
+}
+#formcontact .f1{
+  margin-right: 350px;
+}
+#formcontact .f2{
+	margin-right: 350px;
+}
+/*----- footer----*/
+footer{
+	height: 100%;
+	color:#282828;
+	font-weight: bolder; 
+	font-size: 20px;
+
+}
